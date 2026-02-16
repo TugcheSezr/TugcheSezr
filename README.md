@@ -20,69 +20,31 @@
 
 <p align="center">
 
-<span style="background-color:#e34c26; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML/CSS (Tailwind)
-</span>
-
-<span style="background-color:#f7df1e; color:black; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript (TypeScript)
-</span>
-
-<span style="background-color:#563d7c; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20"/> Bootstrap
-</span>
-
-<span style="background-color:#000000; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> Next.js
-</span>
-
-<span style="background-color:#777bb3; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP
-</span>
-
-<span style="background-color:#007396; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java
-</span>
-
-<span style="background-color:#000000; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="20"/> Symfony
-</span>
-
-<span style="background-color:#00758f; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL
-</span>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </p>
 
----
+
+
 
 #### 🛠️ Tools & Technologieën
 
 <p align="center">
-
-<span style="background-color:#181717; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub
-</span>
-
-<span style="background-color:#0e7cbb; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="20"/> PhpStorm
-</span>
-
-<span style="background-color:#f34f29; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Linux
-</span>
-
-<span style="background-color:#3e3e3e; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="20"/> JSON
-</span>
-
-<span style="background-color:#0078d4; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> VS Code
-</span>
-
-<span style="background-color:#0052cc; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="20"/> Scrum
-</span>
+  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-0E7CBB?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-F34F29?style=for-the-badge&logo=linux&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-3E3E3E?style=for-the-badge&logo=json&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 </p>
 

@@ -21,7 +21,7 @@
   <div style="background-color:#e34c26; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" style="margin-right:8px;"/> HTML/CSS (Tailwind)
   </div>
-  <div style="background-color:#f7df1e; color:black; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
+  <div style="background-color: yellow; color:black; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" style="margin-right:8px;"/> JavaScript (TypeScript)
   </div>
   <div style="background-color:#563d7c; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">

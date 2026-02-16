@@ -16,37 +16,42 @@
 
 ### ⚙️ Tech Skills
 
+### ⚙️ Tech Skills
+
 #### 💻 Programmeertalen
+<p align="center">
+  <span style="display:inline-block; background-color:#e34c26; color:white; padding:5px 10px; border-radius:5px; margin:3px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML/CSS (Tailwind)
+  </span>
+  <span style="display:inline-block; background-color:#f7df1e; color:black; padding:5px 10px; border-radius:5px; margin:3px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript
+  </span>
+  <span style="display:inline-block; background-color:#563d7c; color:white; padding:5px 10px; border-radius:5px; margin:3px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20"/> Bootstrap
+  </span>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML/CSS (Tailwind) 
+<p align="center">
+  <span style="display:inline-block; background-color:#000000; color:white; padding:5px 10px; border-radius:5px; margin:3px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> Next.js
+  </span>
+  <span style="display:inline-block; background-color:#777bb3; color:white; padding:5px 10px; border-radius:5px; margin:3px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP
+  </span>
+  <span style="display:inline-block; background-color:#007396; color:white; padding:5px 10px; border-radius:5px; margin:3px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java
+  </span>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript (TypeScript) 
+<p align="center">
+  <span style="display:inline-block; background-color:#000000; color:white; padding:5px 10px; border-radius:5px; margin:3px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="20"/> Symfony
+  </span>
+  <span style="display:inline-block; background-color:#00758f; color:white; padding:5px 10px; border-radius:5px; margin:3px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL
+  </span>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/> Bootstrap 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> Next.js 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> PHP 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40"/> Symfony 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL
-
-#### 🛠️ Tools & Technologieën 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40"/> PhpStorm 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> Linux 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40"/> JSON
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> VS Code 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/> Scrum
 
 ---
 

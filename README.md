@@ -85,10 +85,4 @@ Groepsproject; klassiek X/O spel op hoofdpagina, JavaScript controleert wincondi
 
 ---
 
-### 🧩 LeetCode Stats
-
-<img src="https://leetcard.jacoblin.cool/TugcheSezr?theme=radical&font=Roboto&ext=contest" width="500"/>
-
----
-
 <p align="center">🚀 Altijd bouwen, altijd leren</p>

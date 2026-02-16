@@ -17,55 +17,74 @@
 ### ⚙️ Tech Skills
 
 #### 💻 Programmeertalen
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin-top:10px;">
-  <div style="background-color:#e34c26; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" style="margin-right:8px;"/> HTML/CSS (Tailwind)
-  </div>
-  <div style="background-color: yellow; color:black; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" style="margin-right:8px;"/> JavaScript (TypeScript)
-  </div>
-  <div style="background-color:#563d7c; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="24" style="margin-right:8px;"/> Bootstrap
-  </div>
-  <div style="background-color:#000000; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" style="margin-right:8px;"/> Next.js
-  </div>
-  <div style="background-color:#777bb3; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" style="margin-right:8px;"/> PHP
-  </div>
-  <div style="background-color:#007396; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" style="margin-right:8px;"/> Java
-  </div>
-  <div style="background-color:#000000; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="24" style="margin-right:8px;"/> Symfony
-  </div>
-  <div style="background-color:#00758f; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" style="margin-right:8px;"/> MySQL
-  </div>
-</div>
+
+<p align="center">
+
+<span style="background-color:#e34c26; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML/CSS (Tailwind)
+</span>
+
+<span style="background-color:#f7df1e; color:black; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript (TypeScript)
+</span>
+
+<span style="background-color:#563d7c; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20"/> Bootstrap
+</span>
+
+<span style="background-color:#000000; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> Next.js
+</span>
+
+<span style="background-color:#777bb3; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP
+</span>
+
+<span style="background-color:#007396; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java
+</span>
+
+<span style="background-color:#000000; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="20"/> Symfony
+</span>
+
+<span style="background-color:#00758f; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL
+</span>
+
+</p>
+
+---
 
 #### 🛠️ Tools & Technologieën
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin-top:10px;">
-  <div style="background-color:#181717; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" style="margin-right:8px;"/> GitHub
-  </div>
-  <div style="background-color:#0e7cbb; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="24" style="margin-right:8px;"/> PhpStorm
-  </div>
-  <div style="background-color:#f34f29; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" style="margin-right:8px;"/> Linux
-  </div>
-  <div style="background-color:#3e3e3e; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="24" style="margin-right:8px;"/> JSON
-  </div>
-  <div style="background-color:#0078d4; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" style="margin-right:8px;"/> VS Code
-  </div>
-  <div style="background-color:#0052cc; color:white; padding:10px 16px; border-radius:10px; display:flex; align-items:center; font-weight:bold; font-size:14px; min-width:150px; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="24" style="margin-right:8px;"/> Scrum
-  </div>
-</div>
 
+<p align="center">
+
+<span style="background-color:#181717; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub
+</span>
+
+<span style="background-color:#0e7cbb; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="20"/> PhpStorm
+</span>
+
+<span style="background-color:#f34f29; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Linux
+</span>
+
+<span style="background-color:#3e3e3e; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="20"/> JSON
+</span>
+
+<span style="background-color:#0078d4; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> VS Code
+</span>
+
+<span style="background-color:#0052cc; color:white; padding:8px 16px; border-radius:8px; margin:6px; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="20"/> Scrum
+</span>
+
+</p>
 
 ---
 

@@ -18,53 +18,54 @@
 
 #### 💻 Programmeertalen
 <p align="center">
-  <span style="display:inline-block; background-color:#e34c26; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#e34c26; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" style="vertical-align:middle;"/> HTML/CSS (Tailwind)
   </span>
-  <span style="display:inline-block; background-color:#f7df1e; color:black; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#f7df1e; color:black; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" style="vertical-align:middle;"/> JavaScript
   </span>
-  <span style="display:inline-block; background-color:#563d7c; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#563d7c; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20" style="vertical-align:middle;"/> Bootstrap
   </span>
-  <span style="display:inline-block; background-color:#000000; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#000000; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" style="vertical-align:middle;"/> Next.js
   </span>
-  <span style="display:inline-block; background-color:#777bb3; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#777bb3; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" style="vertical-align:middle;"/> PHP
   </span>
-  <span style="display:inline-block; background-color:#007396; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#007396; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" style="vertical-align:middle;"/> Java
   </span>
-  <span style="display:inline-block; background-color:#000000; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#000000; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="20" style="vertical-align:middle;"/> Symfony
   </span>
-  <span style="display:inline-block; background-color:#00758f; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#00758f; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" style="vertical-align:middle;"/> MySQL
   </span>
 </p>
 
 #### 🛠️ Tools & Technologieën
 <p align="center">
-  <span style="display:inline-block; background-color:#181717; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#181717; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="vertical-align:middle;"/> GitHub
   </span>
-  <span style="display:inline-block; background-color:#0e7cbb; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#0e7cbb; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="20" style="vertical-align:middle;"/> PhpStorm
   </span>
-  <span style="display:inline-block; background-color:#f34f29; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#f34f29; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" style="vertical-align:middle;"/> Linux
   </span>
-  <span style="display:inline-block; background-color:#3e3e3e; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#3e3e3e; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="20" style="vertical-align:middle;"/> JSON
   </span>
-  <span style="display:inline-block; background-color:#0078d4; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#0078d4; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" style="vertical-align:middle;"/> VS Code
   </span>
-  <span style="display:inline-block; background-color:#0052cc; color:white; padding:5px 12px; border-radius:8px; margin:4px; font-weight:bold; font-size:14px;">
+  <span style="display:inline-block; background-color:#0052cc; color:white; padding:5px 12px; border-radius:8px; margin:6px; font-weight:bold; font-size:14px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="20" style="vertical-align:middle;"/> Scrum
   </span>
 </p>
+
  
 
 ---

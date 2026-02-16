@@ -16,8 +16,6 @@
 
 ### ⚙️ Tech Skills
 
-### ⚙️ Tech Skills
-
 #### 💻 Programmeertalen
 <p align="center">
   <span style="display:inline-block; background-color:#e34c26; color:white; padding:5px 10px; border-radius:5px; margin:3px;">
